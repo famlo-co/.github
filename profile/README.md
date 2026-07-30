@@ -20,8 +20,10 @@ seconds.
 Co-ops, microschools, tutors, venues, and parent groups list their programs,
 schedule activities, take bookings, and run their community in one place.
 
-You pay a volume-based fee — starting at 10%, down to as low as 3% — and only
-when you actually collect a payment. No monthly seat fees, no setup cost.
+**Listing is free** — no monthly fee, no setup cost, and nothing owed until you
+actually collect a payment.
+
+[**Get started at famlo.co →**](https://famlo.co)
 
 ---
 
