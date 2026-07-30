@@ -1,6 +1,4 @@
-# Famlo
-
-**Where the fam goes.**
+<img src="https://raw.githubusercontent.com/famlo-co/.github/main/profile/assets/github-header.png" alt="Famlo — where the fam goes" width="100%">
 
 Local activities, classes, and community for families — and the tools for the
 organizations serving them.
